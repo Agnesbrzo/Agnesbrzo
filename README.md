@@ -11,7 +11,6 @@ Since autumn 2022 I am working in my first job as a frontend developer. Programm
 * ✉️  You can contact me at [abrzozowska4@gmail.com](mailto:abrzozowska4@gmail.com)
 * 🧠  I am currently upgrading my skills in React
 * 🤝  I'm open to collaborating on projects with interesting desing and animations
-* ⚡  I can fix a bike (was working as a bicycle mechanic) :)
 
 ### Skills
 
